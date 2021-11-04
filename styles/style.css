@@ -109,6 +109,7 @@ body {
     margin: 0 auto; 
 }
 .header__content_skills {
+    align-items: center;
     margin-top: 50px;
 }
 .header__skills_title {
@@ -242,6 +243,8 @@ body {
     width: 190px;
     justify-content: center;
     margin-left: 75px;
+    margin-top: 30px;
+    text-align: center;
 }
 .main__about_btn:hover {
     color: var(--secondary-color);
